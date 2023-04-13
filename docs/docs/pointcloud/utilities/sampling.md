@@ -5,7 +5,7 @@ Sample random point clouds from triangle meshes.
 #include "geometrycentral/pointcloud/point_cloud.h"
 #include "geometrycentral/pointcloud/point_position_geometry.h"
 #include "geometrycentral/pointcloud/point_cloud_io.h"
-#include "geometrycentral/pointcloud/point_cloud.h"
+#include "geometrycentral/pointcloud/sample_cloud.h"
 #include "geometrycentral/surface/meshio.h"
 
 using namespace geometrycentral;
